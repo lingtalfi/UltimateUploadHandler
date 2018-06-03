@@ -40,6 +40,7 @@ class WebBasicUploadHandler extends BasicUploadHandler
                 $uri = str_replace($wwwDir, "", $dstFile);
                 return [
                     "uri" => $uri,
+                    "fileName" => basename($uri),
                 ];
             }
             throw new UltimateUploadHandlerException("Configuration error: dstFile was not uploaded under the wwwDir");
