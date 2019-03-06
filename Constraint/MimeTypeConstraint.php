@@ -1,10 +1,10 @@
 <?php
 
 
-namespace UltimateUploadHandler\Constraint;
+namespace Ling\UltimateUploadHandler\Constraint;
 
 
-use Bat\MimeTypeTool;
+use Ling\Bat\MimeTypeTool;
 
 class MimeTypeConstraint extends BaseConstraint
 {

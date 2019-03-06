@@ -1,7 +1,7 @@
 <?php
 
 
-namespace UltimateUploadHandler\Exception;
+namespace Ling\UltimateUploadHandler\Exception;
 
 
 class UltimateUploadHandlerException extends \Exception

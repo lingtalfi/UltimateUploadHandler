@@ -1,10 +1,10 @@
 <?php
 
 
-namespace UltimateUploadHandler\Constraint;
+namespace Ling\UltimateUploadHandler\Constraint;
 
 
-use UltimateUploadHandler\Exception\ConstraintUltimateUploadHandlerException;
+use Ling\UltimateUploadHandler\Exception\ConstraintUltimateUploadHandlerException;
 
 interface ConstraintInterface
 {

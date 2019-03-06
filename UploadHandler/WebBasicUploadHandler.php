@@ -1,11 +1,11 @@
 <?php
 
 
-namespace UltimateUploadHandler\UploadHandler;
+namespace Ling\UltimateUploadHandler\UploadHandler;
 
 
-use Bat\FileSystemTool;
-use UltimateUploadHandler\Exception\UltimateUploadHandlerException;
+use Ling\Bat\FileSystemTool;
+use Ling\UltimateUploadHandler\Exception\UltimateUploadHandlerException;
 
 class WebBasicUploadHandler extends BasicUploadHandler
 {

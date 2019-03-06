@@ -1,10 +1,10 @@
 <?php
 
 
-namespace UltimateUploadHandler\Constraint;
+namespace Ling\UltimateUploadHandler\Constraint;
 
 
-use Bat\ConvertTool;
+use Ling\Bat\ConvertTool;
 
 class SizeConstraint extends BaseConstraint
 {

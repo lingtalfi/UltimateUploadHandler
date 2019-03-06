@@ -1,10 +1,10 @@
 <?php
 
 
-namespace UltimateUploadHandler\UploadHandler;
+namespace Ling\UltimateUploadHandler\UploadHandler;
 
-use UltimateUploadHandler\Exception\ConstraintUltimateUploadHandlerException;
-use UltimateUploadHandler\Exception\UltimateUploadHandlerException;
+use Ling\UltimateUploadHandler\Exception\ConstraintUltimateUploadHandlerException;
+use Ling\UltimateUploadHandler\Exception\UltimateUploadHandlerException;
 
 /**
  * Synopsis of this class is as follow:

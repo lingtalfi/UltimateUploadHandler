@@ -1,10 +1,10 @@
 <?php
 
 
-namespace UltimateUploadHandler\Constraint\I18n\French;
+namespace Ling\UltimateUploadHandler\Constraint\I18n\French;
 
 
-use UltimateUploadHandler\Constraint\MimeTypeConstraint;
+use Ling\UltimateUploadHandler\Constraint\MimeTypeConstraint;
 
 class FrenchMimeTypeConstraint extends MimeTypeConstraint
 {

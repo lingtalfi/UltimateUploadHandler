@@ -1,7 +1,7 @@
 <?php
 
 
-namespace UltimateUploadHandler\Constraint;
+namespace Ling\UltimateUploadHandler\Constraint;
 
 
 abstract class BaseConstraint implements ConstraintInterface

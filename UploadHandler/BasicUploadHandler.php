@@ -1,13 +1,13 @@
 <?php
 
 
-namespace UltimateUploadHandler\UploadHandler;
+namespace Ling\UltimateUploadHandler\UploadHandler;
 
 
-use Bat\FileSystemTool;
-use UltimateUploadHandler\Constraint\ConstraintInterface;
-use UltimateUploadHandler\Exception\ConstraintUltimateUploadHandlerException;
-use UltimateUploadHandler\Exception\UltimateUploadHandlerException;
+use Ling\Bat\FileSystemTool;
+use Ling\UltimateUploadHandler\Constraint\ConstraintInterface;
+use Ling\UltimateUploadHandler\Exception\ConstraintUltimateUploadHandlerException;
+use Ling\UltimateUploadHandler\Exception\UltimateUploadHandlerException;
 
 class BasicUploadHandler implements UltimateUploadHandlerInterface
 {

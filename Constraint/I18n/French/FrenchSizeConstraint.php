@@ -1,10 +1,10 @@
 <?php
 
 
-namespace UltimateUploadHandler\Constraint\I18n\French;
+namespace Ling\UltimateUploadHandler\Constraint\I18n\French;
 
 
-use UltimateUploadHandler\Constraint\SizeConstraint;
+use Ling\UltimateUploadHandler\Constraint\SizeConstraint;
 
 class FrenchSizeConstraint extends SizeConstraint
 {
